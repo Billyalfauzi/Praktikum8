@@ -1,6 +1,6 @@
 # Praktikum8
 ## Flowchart
-Modul lab 6 tampilan nya sebagai berikut
+Modul lab 6 tampilannya sebagai berikut
 ![Gambar 1](screenshoot/ss1.png)
 
 ### kode nya
